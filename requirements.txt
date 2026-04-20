@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+onnx
+onnxruntime
+fastapi
+uvicorn
